@@ -31,7 +31,7 @@ public static void main(String[] args) {
 		n=n/10;
 }
 	System.out.println(n1==sum?"Armstrong number":"not Armstrong number");
-	System.out.println("Number is armstrong");
+	
 	}
 	
 
